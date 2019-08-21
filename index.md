@@ -62,7 +62,7 @@ _References:_
 * D.A. Forsyth and J. Ponce, "Computer Vision: A Modern Approach", second edition, Pearson, 2011.
 
 
-### Lectures (subject to change)
+### Lectures
 
 | Week | Lecture Date | Topic                                                         | Slides |
 | -----|--------------|---------------------------------------------------------------|--------|
