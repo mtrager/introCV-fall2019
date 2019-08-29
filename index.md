@@ -46,16 +46,16 @@ derivations) and submit their own report. The assignments and final projects
 will be checked to contain original material. -->
 
 
-### Syllabus
+### Syllabus (preliminary)
 
 * __Part I: Low level Computer Vision__  
-  Filters, edge detection, visual features, texture.
+  * Filters, edge detection, visual features.
+  * Radiometry, shading and color
 * __Part II: 3D reconstruction__  
-  Camera models, camera calibration.
+  * Camera models, one-view geometry
+  * Multi-view geometry, stereo, SFM
 * __Part III: Recognition__  
-  CNNs for object detection and semantic segmentation.
-* __Part IV: Video__  
-  Optical flow, tracking, action recognition.
+  * CNNs for object detection and semantic segmentation.
 
 
 _References:_  
