@@ -50,10 +50,10 @@ will be checked to contain original material. -->
 
 * __Part I: Low level Computer Vision__  
   * Filters, edge detection, visual features.
-  * Radiometry, shading and color
+  * Radiometry, shading and color.
 * __Part II: 3D reconstruction__  
-  * Camera models, one-view geometry
-  * Multi-view geometry, stereo, SFM
+  * Camera models, one-view geometry.
+  * Multi-view geometry, stereo, SFM.
 * __Part III: Recognition__  
   * CNNs for object detection and semantic segmentation.
 
