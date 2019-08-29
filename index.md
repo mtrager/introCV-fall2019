@@ -46,7 +46,7 @@ derivations) and submit their own report. The assignments and final projects
 will be checked to contain original material. -->
 
 
-### Syllabus (preliminary)
+### Syllabus
 
 * __Part I: Low level Computer Vision__  
   * Filters, edge detection, visual features.
