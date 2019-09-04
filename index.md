@@ -64,9 +64,9 @@ _References:_
 
 ### Lectures
 
-| Week | Lecture Date | Topic                                                         | Slides |
-| -----|--------------|---------------------------------------------------------------|--------|
-| 1    | 9/3          | Course overview, image formation, digital photography         |        |
+| Week | Lecture Date | Topic                                   | Slides |
+| -----|--------------|-----------------------------------------|--------|
+| 1    | 9/3          | Course overview, image formation        |    [Slides](/lectures/lect1.pdf)    |
 
 <!-- 
 ### Detailed Syllabus 
