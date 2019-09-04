@@ -16,6 +16,10 @@ Tuesdays from 3:50pm-4:40pm
 Jean Ponce (jean.ponce@inria.fr)  
 Matthew Trager (matthew.trager@cims.nyu.edu)
 
+TAs:  
+Jiachen Zhu (jiachen.zhu@nyu.edu)  
+Sahar Siddiqui (ss12414@nyu.edu)
+
 
 ### Grading
 
