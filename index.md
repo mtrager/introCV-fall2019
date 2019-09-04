@@ -3,12 +3,12 @@ Special Topics in Data Science, DS-GA 3001.005/.006
 ### Logistics
 
 * DS-GA 3001.005 (Lecture)  
-Tuesdays from 2pm-3:40pm
-60FA_110 
+Tuesdays 2pm-3:40pm 60FA room 110 
 
 * DS-GA 3001.006 (Lab)  
-Tuesdays from 3:50pm-4:40pm 
-60FA_110 
+Tuesdays 3:50pm-4:40pm 60FA room 110 
+
+* Office hours: Thursdays 2:00pm-4:00pm 60FA room 606
 
 
 ### Instructors
