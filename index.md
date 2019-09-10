@@ -68,10 +68,10 @@ _References:_
 
 ### Lectures
 
-| Week | Lecture Date | Topic                                   | Slides |
+| Week | Date | Topic                                   | Slides |
 | -----|--------------|-----------------------------------------|--------|
 | 1    | 9/3          | Course overview, image formation        |    [Slides](/lectures/lect1.pdf)    |
-| 1    | 9/10         | Camera geometry and calibration         |    [Slides](/lectures/lect2.pdf)    |
+| 2    | 9/10         | Camera geometry and calibration         |    [Slides](/lectures/lect2.pdf)    |
 
 <!-- 
 ### Detailed Syllabus 
