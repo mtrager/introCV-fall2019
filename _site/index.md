@@ -27,6 +27,9 @@ Sahar Siddiqui (ss12414@nyu.edu)
 Four/five programming assignments (60% of the grade) + final project (40% of the
 grade).
 
+* **Excercise 1** on camera calibration ([zip file](/homeworks/homework1.zip)).
+Due on October 1st (on NYU class site).
+
 <!-- 
 __Assignments:__ There will be four/five programming assignments representing
 60% of the grade. The supporting materials for the programming assignments
@@ -42,12 +45,11 @@ adapted depending on the paper. You will have to present your project (10
 minutes + questions) and return a summary (2 pages max) of the essential points
 that should be readable (and useful) for the other students in the class. -->
 
-<!-- __Collaboration policy:__ You can discuss the assignments and final projects
+__Collaboration policy:__ You can discuss the assignments and final projects
 with other students in the class. Discussions are encouraged and are an
 essential component of the academic environment. However, each student has to
-work out their assignment alone (including any coding, experiments or
-derivations) and submit their own report. The assignments and final projects
-will be checked to contain original material. -->
+work out their assignment alone (including any coding, experiments, and
+derivations) and submit their own report/notebook.
 
 
 ### Syllabus
@@ -68,10 +70,11 @@ _References:_
 
 ### Lectures
 
-| Week | Lecture Date | Topic                                   | Slides |
+| Week | Date | Topic                                   | Slides |
 | -----|--------------|-----------------------------------------|--------|
 | 1    | 9/3          | Course overview, image formation        |    [Slides](/lectures/lect1.pdf)    |
-| 1    | 9/10         | Camera geometry and calibration         |    [Slides](/lectures/lect2.pdf)    |
+| 2    | 9/10         | Camera geometry and calibration I         |    [Slides](/lectures/lect2.pdf)    |
+| 3    | 9/17         | Camera geometry and calibration II          |    [Slides](/lectures/lect3.pdf)    |
 
 <!-- 
 ### Detailed Syllabus 
