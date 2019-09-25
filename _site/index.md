@@ -70,11 +70,12 @@ _References:_
 
 ### Lectures
 
-| Week | Date | Topic                                   | Slides |
-| -----|--------------|-----------------------------------------|--------|
-| 1    | 9/3          | Course overview, image formation        |    [Slides](/lectures/lect1.pdf)    |
-| 2    | 9/10         | Camera geometry and calibration I         |    [Slides](/lectures/lect2.pdf)    |
-| 3    | 9/17         | Camera geometry and calibration II          |    [Slides](/lectures/lect3.pdf)    |
+| Week | Date | Topic                                        | Slides |
+| -----|------|----------------------------------------------|--------|
+| 1    | 9/3  | Course overview, image formation             |    [Slides](/lectures/lect1.pdf)    |
+| 2    | 9/10 | Camera geometry and calibration I            |    [Slides](/lectures/lect2.pdf)    |
+| 3    | 9/17 | Camera geometry and calibration II           |    [Slides](/lectures/lect3.pdf)    |
+| 4    | 9/24 | Linear and nonlinear filters, edge detection |    [Slides](/lectures/lect4.pdf)    |
 
 <!-- 
 ### Detailed Syllabus 
