@@ -25,10 +25,12 @@ Sahar Siddiqui (ss12414@nyu.edu)
 
 
 Four/five programming assignments (60% of the grade) + final project (40% of the
-grade).
+grade). Assignments should be submitted using the NYU class site.
 
 * **Excercise 1** on camera calibration ([zip file](/homeworks/homework1.zip)).
-Due on October 1st (on NYU class site).
+Due on October 1st.
+* **Excercise 2** on Canny edge detector ([zip file](/homeworks/homework2.zip)).
+Due on October 15th.
 
 <!-- 
 __Assignments:__ There will be four/five programming assignments representing
@@ -76,6 +78,7 @@ _References:_
 | 2    | 9/10 | Camera geometry and calibration I            |    [Slides](/lectures/lect2.pdf)    |
 | 3    | 9/17 | Camera geometry and calibration II           |    [Slides](/lectures/lect3.pdf)    |
 | 4    | 9/24 | Linear and nonlinear filters, edge detection |    [Slides](/lectures/lect4.pdf)    |
+| 5    | 10/1 | Local image features (Harris, SIFT), robust estimation (RANSAC, Hough transform) |    [Slides](/lectures/lect5.pdf)    |
 
 <!-- 
 ### Detailed Syllabus 
