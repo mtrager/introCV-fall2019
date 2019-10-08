@@ -68,17 +68,21 @@ derivations) and submit their own report/notebook.
 
 _References:_  
 * D.A. Forsyth and J. Ponce, "Computer Vision: A Modern Approach", second edition, Pearson, 2011.
+* R. Szeliski, "Computer Vision: Algorithms and Applications". ([PDF](http://szeliski.org/Book/))
 
 
 ### Lectures
 
-| Week | Date | Topic                                        | Slides |
+| Week | Date | Topic                                    | Instructor    | Slides |
 | -----|------|----------------------------------------------|--------|
-| 1    | 9/3  | Course overview, image formation             |    [Slides](/lectures/lect1.pdf)    |
-| 2    | 9/10 | Camera geometry and calibration I            |    [Slides](/lectures/lect2.pdf)    |
-| 3    | 9/17 | Camera geometry and calibration II           |    [Slides](/lectures/lect3.pdf)    |
-| 4    | 9/24 | Linear and nonlinear filters, edge detection |    [Slides](/lectures/lect4.pdf)    |
-| 5    | 10/1 | Local image features (Harris, SIFT), robust estimation (RANSAC, Hough transform) |    [Slides](/lectures/lect5.pdf)    |
+| 1    | 9/3  | Course overview, image formation        |  JP   |    [Slides](/lectures/lect1.pdf)    |
+| 2    | 9/10 | Camera geometry and calibration I       |  JP   |    [Slides](/lectures/lect2.pdf)    |
+| 3    | 9/17 | Camera geometry and calibration II      |  JP   |    [Slides](/lectures/lect3.pdf)    |
+| 4    | 9/24 | Linear and nonlinear filters, edge detection |  MT  | [Slides](/lectures/lect4.pdf)    |
+| 5    | 10/1 | Local image features (Harris, SIFT), robust estimation (RANSAC, Hough transform) |  MT   | [Slides](/lectures/lect5.pdf)       |
+| 6    | 10/8 | Radiometry and color  |  JP  | [Slides](/lectures/lect6.pdf)    |
+|     | 10/15 | No class  |   |    |
+| 7    | 10/22 | Image segmentation  |  MT  |    |
 
 <!-- 
 ### Detailed Syllabus 
