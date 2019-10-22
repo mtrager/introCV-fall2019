@@ -30,7 +30,7 @@ grade). Assignments should be submitted using the NYU class site.
 * **Excercise 1** on camera calibration ([zip file](/homeworks/homework1.zip)).
 Due on October 1st.
 * **Excercise 2** on Canny edge detector ([zip file](/homeworks/homework2.zip)).
-Due on October 15th.
+Due on October 22nd.
 
 <!-- 
 __Assignments:__ There will be four/five programming assignments representing
