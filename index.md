@@ -71,6 +71,10 @@ _References:_
 * R. Szeliski, "Computer Vision: Algorithms and Applications". ([PDF](http://szeliski.org/Book/))
 
 
+
+
+
+
 ### Lectures
 
 | Week | Date | Topic                                    | Instructor    | Slides |
@@ -82,7 +86,14 @@ _References:_
 | 5    | 10/1 | Local image features (Harris, SIFT), robust estimation (RANSAC, Hough transform) |  MT   | [Slides](/lectures/lect5.pdf)       |
 | 6    | 10/8 | Radiometry and color  |  JP  | [Slides](/lectures/lect6.pdf)    |
 |     | 10/15 | No class  |   |    |
-| 7    | 10/22 | Image segmentation  |  MT  |    |
+| 7    | 10/22 | Texture and image segmentation  |  MT  |  [Slides](/lectures/lect7.pdf)  |
+| 8    | 10/29 | Multi-view reconstruction  |  MT  |    |
+
+
+
+### Acknowledgements
+
+Much of the material for this course relies on the Computer Vision course given at [ENS Paris](http://imagine.enpc.fr/~aubrym/lectures/introvis19/) by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from [James Hays](https://www.cc.gatech.edu/~hays/compvision/), [Svetlana Lazebnik](http://slazebni.cs.illinois.edu/spring18/), and [Derek Hoeim](https://courses.engr.illinois.edu/cs543/sp2017/). 
 
 <!-- 
 ### Detailed Syllabus 
