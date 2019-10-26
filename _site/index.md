@@ -31,6 +31,9 @@ grade). Assignments should be submitted using the NYU class site.
 Due on October 1st.
 * **Excercise 2** on Canny edge detector ([zip file](/homeworks/homework2.zip)).
 Due on October 22nd.
+* **Excercise 3** on mean shift ([zip file](/homeworks/homework3.zip)).
+Due on November 12th.
+* **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Matthew to validate a project.
 
 <!-- 
 __Assignments:__ There will be four/five programming assignments representing
