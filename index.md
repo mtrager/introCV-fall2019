@@ -33,7 +33,7 @@ Due on October 1st.
 Due on October 22nd.
 * **Excercise 3** on mean shift ([zip file](/homeworks/homework3.zip)).
 Due on November 12th.
-* **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Matthew to validate a project.
+* **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Matthew to validate a project. Poster presentations will be on December 17th at 2 pm in the 7th floor open space. 
 
 <!-- 
 __Assignments:__ There will be four/five programming assignments representing
@@ -72,6 +72,7 @@ derivations) and submit their own report/notebook.
 _References:_  
 * D.A. Forsyth and J. Ponce, "Computer Vision: A Modern Approach", second edition, Pearson, 2011.
 * R. Szeliski, "Computer Vision: Algorithms and Applications". ([PDF](http://szeliski.org/Book/))
+* R. Hartley and A. Zisserman, "Multiple View Geometry in Computer Vision", Cambridge University Press, 2004.
 
 
 
@@ -86,11 +87,12 @@ _References:_
 | 2    | 9/10 | Camera geometry and calibration I       |  JP   |    [Slides](/lectures/lect2.pdf)    |
 | 3    | 9/17 | Camera geometry and calibration II      |  JP   |    [Slides](/lectures/lect3.pdf)    |
 | 4    | 9/24 | Linear and nonlinear filters, edge detection |  MT  | [Slides](/lectures/lect4.pdf)    |
-| 5    | 10/1 | Local image features (Harris, SIFT), robust estimation (RANSAC, Hough transform) |  MT   | [Slides](/lectures/lect5.pdf)       |
+| 5    | 10/1 | Interest points (Harris, SIFT), robust estimation (RANSAC, Hough transform) |  MT   | [Slides](/lectures/lect5.pdf)       |
 | 6    | 10/8 | Radiometry and color  |  JP  | [Slides](/lectures/lect6.pdf)    |
 |     | 10/15 | No class  |   |    |
 | 7    | 10/22 | Texture and image segmentation  |  MT  |  [Slides](/lectures/lect7.pdf)  |
-| 8    | 10/29 | Multi-view reconstruction  |  MT  |    |
+| 8    | 10/29 | MRF and graph cuts, single-view geometry  |  MT  |  [Slides](/lectures/lect8.pdf)  |
+| 9    | 11/05 | Epipolar geometry and stereo  |  JP  |    |
 
 
 
