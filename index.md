@@ -92,7 +92,8 @@ _References:_
 |     | 10/15 | No class  |   |    |
 | 7    | 10/22 | Texture and image segmentation  |  MT  |  [Slides](/lectures/lect7.pdf)  |
 | 8    | 10/29 | MRF and graph cuts, single-view geometry  |  MT  |  [Slides](/lectures/lect8.pdf)  |
-| 9    | 11/05 | Epipolar geometry and stereo  |  JP  |    |
+| 9    | 11/05 | Epipolar geometry and stereo  |  JP  |  [Slides](/lectures/lect9.pdf)  |
+| 10    | 11/12 | Structure from Motion  |  JP  |   |
 
 
 
