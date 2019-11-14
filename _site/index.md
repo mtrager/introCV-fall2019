@@ -24,7 +24,7 @@ Sahar Siddiqui (ss12414@nyu.edu)
 ### Grading
 
 
-Four/five programming assignments (60% of the grade) + final project (40% of the
+Four programming assignments (60% of the grade) + final project (40% of the
 grade). Assignments should be submitted using the NYU class site.
 
 * **Excercise 1** on camera calibration ([zip file](/homeworks/homework1.zip)).
@@ -92,9 +92,9 @@ _References:_
 |     | 10/15 | No class  |   |    |
 | 7    | 10/22 | Texture and image segmentation  |  MT  |  [Slides](/lectures/lect7.pdf)  |
 | 8    | 10/29 | MRF and graph cuts, single-view geometry  |  MT  |  [Slides](/lectures/lect8.pdf)  |
-| 9    | 11/05 | Epipolar geometry and stereo  |  JP  |  [Slides](/lectures/lect9.pdf)  |
-| 10    | 11/12 | Structure from Motion  |  JP  |   |
-
+| 9    | 11/05 | Epipolar geometry  |  JP  |  [Slides](/lectures/lect9.pdf)  |
+| 10    | 11/12 | Stereo |  JP  |  [Slides](/lectures/lect10.pdf) |
+| 11    | 11/19 | Structure from Motion  |  JP  |   |
 
 
 ### Acknowledgements
