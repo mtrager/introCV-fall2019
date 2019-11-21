@@ -94,7 +94,8 @@ _References:_
 | 8    | 10/29 | MRF and graph cuts, single-view geometry  |  MT  |  [Slides](/lectures/lect8.pdf)  |
 | 9    | 11/05 | Epipolar geometry  |  JP  |  [Slides](/lectures/lect9.pdf)  |
 | 10    | 11/12 | Stereo |  JP  |  [Slides](/lectures/lect10.pdf) |
-| 11    | 11/19 | Structure from Motion  |  JP  |   |
+| 11    | 11/19 | Structure from motion  |  JP  | [Slides](/lectures/lect11.pdf) |
+| 12    | 11/26 | Intro to recognition  |  MT  |   |
 
 
 ### Acknowledgements
