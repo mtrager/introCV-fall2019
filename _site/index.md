@@ -33,6 +33,7 @@ Due on October 1st.
 Due on October 22nd.
 * **Excercise 3** on mean shift ([zip file](/homeworks/homework3.zip)).
 Due on November 12th.
+* **Excercise 4** on neural networks ([ipynb notebook](/homeworks/homework4.ipynb)). Due on December 17th.
 * **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Matthew to validate a project. Poster presentations will be on December 17th at 2 pm in the 7th floor open space. 
 
 <!-- 
