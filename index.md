@@ -96,7 +96,8 @@ _References:_
 | 9    | 11/05 | Epipolar geometry  |  JP  |  [Slides](/lectures/lect9.pdf)  |
 | 10    | 11/12 | Stereo |  JP  |  [Slides](/lectures/lect10.pdf) |
 | 11    | 11/19 | Structure from motion  |  JP  | [Slides](/lectures/lect11.pdf) |
-| 12    | 11/26 | Intro to recognition  |  MT  |   |
+| 12    | 11/26 | Intro to recognition, ML, and deep learning  |  MT  | [Slides](/lectures/lect12.pdf)  |
+| 13    | 12/03 | Classification and detection  |  MT  |  |
 
 
 ### Acknowledgements
