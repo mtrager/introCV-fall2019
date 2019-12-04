@@ -34,7 +34,7 @@ Due on October 22nd.
 * **Excercise 3** on mean shift ([zip file](/homeworks/homework3.zip)).
 Due on November 12th.
 * **Excercise 4** on neural networks ([ipynb notebook](/homeworks/homework4.ipynb)). Due on December 17th.
-* **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Matthew to validate a project. Poster presentations will be on December 17th at 2 pm in the 7th floor open space. 
+* **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Matthew to validate a project. Poster presentations will be on December 17th at 2 pm in the 7th floor open space. You should also submit a 1-2 page report by the same date.
 
 <!-- 
 __Assignments:__ There will be four/five programming assignments representing
@@ -97,7 +97,7 @@ _References:_
 | 10    | 11/12 | Stereo |  JP  |  [Slides](/lectures/lect10.pdf) |
 | 11    | 11/19 | Structure from motion  |  JP  | [Slides](/lectures/lect11.pdf) |
 | 12    | 11/26 | Intro to recognition, ML, and deep learning  |  MT  | [Slides](/lectures/lect12.pdf)  |
-| 13    | 12/03 | Classification and detection  |  MT  |  |
+| 13    | 12/03 | Neural networks, object classification and detection  |  MT  | [Slides](/lectures/lect13.pdf) |
 
 
 ### Acknowledgements
