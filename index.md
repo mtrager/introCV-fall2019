@@ -98,6 +98,7 @@ _References:_
 | 11    | 11/19 | Structure from motion  |  JP  | [Slides](/lectures/lect11.pdf) |
 | 12    | 11/26 | Intro to recognition, ML, and deep learning  |  MT  | [Slides](/lectures/lect12.pdf)  |
 | 13    | 12/03 | Neural networks, object classification and detection  |  MT  | [Slides](/lectures/lect13.pdf) |
+| 14    | 12/10 | Weakly supervised and unsupervised methods  |  JP  | [Slides](/lectures/lect14.pdf) |
 
 
 ### Acknowledgements
